@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/44065374/189449899-d55bc2c3-4284-4319-b2b5-a953f6165913.png)
+![image](https://github.com/user-attachments/assets/a5dbace3-256b-45b0-8591-4d81713eef2f)
 
 # Gradient_Descent_Comparisons
 Benchmark on different Gradient Descent algorithms:
